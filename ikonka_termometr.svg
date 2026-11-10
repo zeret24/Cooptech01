@@ -1,0 +1,16 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Иконка "Термометр": круг + простые фигуры (Rectangle и Ellipse) -->
+  <circle cx="30" cy="30" r="30" fill="#172554"/>
+  <!-- корпус термометра -->
+  <rect x="23" y="9" width="10" height="30" rx="5" fill="#FFFFFF"/>
+  <!-- колба -->
+  <circle cx="28" cy="42" r="9" fill="#FFFFFF"/>
+  <!-- жидкость -->
+  <rect x="26" y="16" width="4" height="22" rx="2" fill="#3B82F6"/>
+  <circle cx="28" cy="42" r="4.5" fill="#3B82F6"/>
+  <!-- деления -->
+  <line x1="36" y1="16" x2="40" y2="16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="22" x2="40" y2="22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="28" x2="40" y2="28" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="34" x2="40" y2="34" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+</svg>
