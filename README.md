@@ -6,6 +6,7 @@
 - Группа: РПО-261Б
 - ЧОУ ПО «Кемеровский кооперативный техникум»
 - Инструмент: Figma (веб-версия), фрейм 900 × 1200 px
+- **Макет в Figma:** [Урок 21. Карточка товара «Термокружка»](https://www.figma.com/design/Cq8T7TBYdvgt49smh5bI15/%D0%A3%D1%80%D0%BE%D0%BA-21.-%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0-%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B0--900x1200?node-id=0-1)
 
 ---
 
@@ -83,6 +84,11 @@
 ---
 
 ## Как открыть макет в Figma
+
+Готовый файл: <https://www.figma.com/design/Cq8T7TBYdvgt49smh5bI15?node-id=0-1>
+(доступ «Anyone with the link — can view»).
+
+Если нужно собрать заново:
 
 1. Открыть [figma.com](https://www.figma.com) и создать новый файл (Design file).
 2. Перетащить в окно файла `kartochka.svg` — он импортируется как фрейм 900 × 1200
