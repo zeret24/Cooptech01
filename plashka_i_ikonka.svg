@@ -1,0 +1,20 @@
+<svg width="380" height="60" viewBox="0 0 380 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Плашка 300x60 со скруглением 20 и тёмно-синей заливкой -->
+  <rect x="0" y="0" width="300" height="60" rx="20" fill="#172554"/>
+  <!-- Текст внутри плашки -->
+  <text x="150" y="36" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">Держит тепло 12 часов</text>
+  <!-- Группа иконки термометра рядом с плашкой -->
+  <g id="Thermometer_Icon" transform="translate(312, 0)">
+    <circle cx="30" cy="30" r="30" fill="#172554"/>
+    <!-- Корпус термометра (Rectangle + Ellipse) -->
+    <rect x="24" y="10" width="12" height="29" rx="6" fill="#FFFFFF"/>
+    <circle cx="30" cy="41" r="11" fill="#FFFFFF"/>
+    <!-- Шкала и столбик -->
+    <rect x="27.5" y="16" width="5" height="23" rx="2.5" fill="#3B82F6"/>
+    <circle cx="30" cy="41" r="5.5" fill="#3B82F6"/>
+    <!-- Деления шкалы -->
+    <line x1="38" y1="16" x2="42" y2="16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <line x1="38" y1="22" x2="42" y2="22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <line x1="38" y1="28" x2="42" y2="28" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
